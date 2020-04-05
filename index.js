@@ -91,54 +91,10 @@ $(function(){
             // createCookie('numOfDaysPast', 1, 30)
             createCookie('startDate', `${month +1}/${day}/${year}`, 30)
         }
+    } else {
+        $('.uk-alert-danger').removeClass('uk-hidden')
     }
-
-    // var imgContainer = [...document.querySelectorAll('.uk-card')]
-
-    // imgContainer.map(con => {
-    //     con.addEventListener('click', function(){
-    //         alert(1)
-
-    //         if($('.uk-lightbox-items')) {
-    //             var myArr = [...$('.uk-lightbox-items li')]
-    //             var i = dayCount+1
-
-    //             for(var j = 0; j < myArr.length; j++) {
-    //                 if(j > i) {
-    //                     myArr.parentNode.removeChild(i)       
-    //                 }
-    //             }
-    //         }
-    //     })
-    // })
-
-    // imgContainer.addEventListener('click', function () { alert(1) })
-
-    //delay-controls	Number	3000	Delay time before controls fade out in ms.
-    // createCookie('bdo_programcommitmentid', `${tpc.find('bdo_programcommitment_config').get_value()}`, 7);
-    // var progCommitId = readCookie('bdo_programcommitmentid')
 })
-
-// function removeHiddenImages(){
-//     alert(1)
-    
-//     var myArr = [...$('.uk-lightbox-items li')]
-//     var i = dayCount+1
-
-//     for(var j = 0; j < myArr.length; j++) {
-//         if(j > i) {
-//             myArr.parentNode.removeChild(i)       
-//         }
-//     }
-    
-    
-    // var j = index+1
-    // var toBeRemoved = myArr.splice(j)
-
-    // toBeRemoved.map(li, pos => {
-    //     li.parent().child()[pos]
-    // })
-// }
 
 function diffInDays(date2, date1) {
     const diffTime = Math.abs(new Date(date2) - new Date(date1));
