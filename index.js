@@ -4,7 +4,7 @@ $(function(){
         { 
             imgPath : 'images/us/us1.jpg', 
             imgNum : 0,
-            caption: "testing" 
+            caption: "The first picture we ever took together. Who would have thought I found my lobster <3" 
         },
         {
             imgPath : 'images/us/us2.jpg', 
