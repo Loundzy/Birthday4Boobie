@@ -63,7 +63,7 @@ $(function(){
     $('.countDown').attr('uk-countdown', `date: ${nextDay}`)
     
 
-    //if (new Date(currentDate) >= new Date('04/05/2020')){
+    if (new Date(currentDate) >= new Date('04/05/2020')){
         if(dayCount) {
             //do sutff if page has loaded before
             var startDate = readCookie('startDate')
@@ -91,9 +91,9 @@ $(function(){
             // createCookie('numOfDaysPast', 1, 30)
             createCookie('startDate', `${month +1}/${day}/${year}`, 30)
         }
-    //} else {
-        //$('.uk-alert-danger').removeClass('uk-hidden')
-    //}
+    } else {
+        $('.uk-alert-danger').removeClass('uk-hidden')
+    }
 })
 
 function diffInDays(date2, date1) {
