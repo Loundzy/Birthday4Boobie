@@ -7,32 +7,32 @@ $(function(){
             caption: "The first picture we ever took together(I'm pretty sure). Who would have thought I found my lobster when you started at the Source. I got it right with the caption here tho, cause you have remained my best friend and the love of my life <3" 
         },
         {
-            imgPath : 'images/us/us2.jpg', 
+            imgPath : 'images/us/us2.png', 
             imgNum : 1,
             caption: "We are LOSERS! And I love it cause we are losers together. No matter how our interests manage to change over time we never lose our interact in each other. I have faith that we will continue to grow together no matter how much we grow individually. I love you."
         },
         { 
-            imgPath : 'images/us/us3.jpg', 
+            imgPath : 'images/us/us3.png', 
             imgNum : 2,
             caption: "This one is just selfish and for me mostly :P You are beautiful and I never lose site of how apparent that is on the inside and outside. Really wish I could feel these lips against mine right now...<3"
         },
         { 
-            imgPath : 'images/us/us4.jpg', 
+            imgPath : 'images/us/us4.jpeg', 
             imgNum : 3,
             caption: "I have not been to many concerts, and none of which did I have to pee as bad as waiting in this line. You may have enjoyed it (too much) but you always stayed attentive to what I was going through. That's something I love so much about you. You take care of how I feel better than anyone. Thank you."
         },
         { 
-            imgPath : 'images/us/us5.jpg', 
+            imgPath : 'images/us/us5.png', 
             imgNum : 4,
             caption: "Correct me if I am wrong, but this was your first hockey game, right? I may not look happy but I had a lot of fun being apart of that with you and getting to share something that really special and important to me with you was a lot of fun. I will not forget it and look forward to many more (once we are brining in the dough :P)."
         },
         { 
-            imgPath : 'images/us/us6.jpg', 
+            imgPath : 'images/us/us6.png', 
             imgNum : 5,
             caption: "I'm probably wrong here for timing, but this makes me thing about when you got back from Chicago. I missed you so much and I was so happy to finally get to really and have my favorite person back. I dont think this was taken around that time, but the energy fits how I felt and will feel finally getting to be close to you again."
         },
         { 
-            imgPath : 'images/us/us7.jpg', 
+            imgPath : 'images/us/us7.png', 
             imgNum : 6,
             caption: "Again, I picked this cause I miss you >_< You look cute. I do wish we took more pictures together and that you would share them with me so I can have them. I mean, I do love the nudes and selfies but the us-ies are pretty nice too."
         },
