@@ -34,17 +34,17 @@ $(function(){
         { 
             imgPath : 'images/us/us7.png', 
             imgNum : 6,
-            caption: "Again, I picked this cause I miss you >_< You look cute. I do wish we took more pictures together and that you would share them with me so I can have them. I mean, I do love the nudes and selfies but the us-ies are pretty nice too."
+            caption: "Again, I picked this cause I miss you >_< You look cute. I do wish we took more pictures together and that you would share them with me so I can have them. I mean, I do love the nudes and selfies but the us-ies are pretty nice too. Could really use being able to look through more pictures of us right now..."
         },
         { 
             imgPath : 'images/us/us8.jpg', 
             imgNum : 7,
-            caption: ""
+            caption: "Our better late than never Valentines Day. Just like with your birthday, we will still celebrate and it will be something we will not forget. Hard as being apart is from you right now it will make seeing you that much more special after the wait, just like this dinner date :P"
         },
         { 
             imgPath : 'images/us/us9.jpg', 
             imgNum : 8,
-            caption: ""
+            caption: "And last but not least, our recent venture out for my work christmas party. Our lives are changing and growing and being able to share my new exiting workplace that marks a big step forward for me was very special. It was nice to be able to let loose and have some fun and I really had a BLAST with you. From the first picture until now, nothing has changes as my most fun and fondest memories are always ones I share with you. Enjoy the bonus Ive left on the page ;)"
         }
     ]
     
