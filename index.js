@@ -75,6 +75,9 @@ $(function(){
                     cardImgs[i].setAttribute('data-caption', imagesArry[i].caption) 
                     cardThum[i].setAttribute('src', 'images/unlocked.jpg')
                 }
+                if(dayCount >= 8) {
+                    $('.giftTease').removeClass('uk-hidden')
+                }
             } else {
                 cardImgs[0].setAttribute('href', imagesArry[0].imgPath)
                 cardImgs[0].setAttribute('data-caption', imagesArry[0].caption)
